@@ -1,7 +1,7 @@
 # Method Arguments Lab
 
 ## Objectives
-
+f 
 1. Define a method that takes in an argument and uses that argument in the
    method body.
 
